@@ -1,10 +1,10 @@
-# 🏍️ BikeServ — Bike Service Management System
+# BikeServ — Bike Service Management System
 
 Full-stack application: **React (Vite)** frontend + **Spring Boot** backend + **MySQL** database.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Bike Service/
@@ -15,7 +15,7 @@ Bike Service/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### 1. MySQL — Create the Database
 
@@ -47,7 +47,7 @@ Runs on **http://localhost:5173**
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 | Module    | Base URL              |
 |-----------|-----------------------|
@@ -61,7 +61,7 @@ All endpoints support: `GET`, `POST /{id}`, `PUT /{id}`, `DELETE /{id}`
 
 ---
 
-## 🗄️ Database Config
+##  Database Config
 
 File: `backend/src/main/resources/application.properties`
 
@@ -75,7 +75,7 @@ Change `username`/`password` if your MySQL has a password.
 
 ---
 
-## 📱 Pages
+##  Pages
 
 | Page         | Route            | Description                          |
 |--------------|------------------|--------------------------------------|
